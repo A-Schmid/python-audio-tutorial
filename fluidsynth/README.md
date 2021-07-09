@@ -41,6 +41,7 @@ Repository and documentation: <https://github.com/nwhitehead/pyfluidsynth>
 Its interface provides functions based on the MIDI protocol.
 
 Before usage, an audio driver and a sound font have to be provided to the synthesizer.
+A complete list of compatible drivers can be found [here](https://www.fluidsynth.org/api/CreatingAudioDriver.html).
 
 ```
 fs.start(driver='pulseaudio')
