@@ -10,6 +10,8 @@ If you want to build a more sophisticated media player, check out the *QtMultime
 
 If you want to use MIDI to play sounds, you might want to use *fluidsynth*.
 
+If you want to work with MIDI events, *Mido* does everything you want.
+
 # MIDI
 
 The MIDI protocol is used by both digitial instruments and synthesizers to send and receive note and control messages.
